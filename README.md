@@ -4,7 +4,7 @@
 
 [朴素贝叶斯模型](data/Naive_Bayes.md)
 
-[zookeeper 案例](data/zookeeper.md)
+[zookeeper 案例](zookeeper/zookeeper.md)
 
 [hive 实战案例](hive/README.md)
 
